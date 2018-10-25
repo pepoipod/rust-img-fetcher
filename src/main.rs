@@ -3,9 +3,9 @@ extern crate scraper;
 
 use scraper::{Html, Selector};
 use std::fs;
+use std::fs::File;
 use std::io::Read;
 use std::io::Write;
-use std::fs::File;
 
 fn main() {
     let img_url = "";
