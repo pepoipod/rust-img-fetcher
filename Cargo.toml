@@ -1,0 +1,8 @@
+[package]
+name = "img-fetcher"
+version = "0.1.0"
+authors = ["iwamoto <iwamoto@cshool.jp>"]
+
+[dependencies]
+reqwest = "*"
+scraper = "*"
